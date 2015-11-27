@@ -25,7 +25,7 @@ project = u'Nameless'
 year = '2015'
 author = u'Ionel Cristian M\u0103rie\u0219'
 copyright = '{0}, {1}'.format(year, author)
-version = release = u'0.1.0'
+version = release = u'0.1.1'
 
 pygments_style = 'trac'
 templates_path = ['.']
